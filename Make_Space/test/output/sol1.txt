@@ -1,0 +1,13 @@
+C-Cave D-Tower G-Mansion
+C-Cave
+NO_VACANT_ROOM
+G-Mansion
+D-Tower
+C-Cave
+D-Tower
+INCORRECT_INPUT
+C-Cave G-Mansion
+C-Cave
+G-Mansion
+G-Mansion
+NO_VACANT_ROOM
